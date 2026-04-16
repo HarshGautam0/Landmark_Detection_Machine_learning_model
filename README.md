@@ -48,19 +48,6 @@ This project focuses on detecting and identifying landmarks in images using Mach
 - Visualization using matplotlib  
 - Easy-to-extend model architecture  
 
----
-
-## 📷 Demo
-(Add screenshots or output images here)
-
----
-
-## 📊 Results
-- Achieved accurate classification on test dataset  
-- Model performance can be improved with larger dataset  
-
----
-
 
 ## 📂 Project Structure
 
