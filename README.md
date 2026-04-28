@@ -1,4 +1,4 @@
-I wanted to share an update that I’ve recently created a new GitHub repository titled Landmark_Detection_Machine_learning_model, which focuses on a machine learning model for Landmark detection.
+I have recently launched a GitHub repository named Landmark_Detection_Machine_learning_model, dedicated to developing a machine learning model for landmark detection.
 # 📍 DeepLandmark - Landmark Detection ML App
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://landmarkai.nexttoken.app/)
